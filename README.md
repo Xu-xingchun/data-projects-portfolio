@@ -15,6 +15,8 @@
 **项目简介：**  
 基于 Spotify 2017–2023 年业务数据，对平台收入增长趋势、收入结构以及用户相关指标进行分析，并构建可视化分析仪表板。
 
+完整项目原仓库：https://github.com/Xu-xingchun/spotify-business-performance-dashboard
+
 **项目内容：**
 - 分析平台收入增长趋势  
 - 对 Premium 订阅收入与广告收入结构进行拆解  
@@ -38,6 +40,8 @@
 
 **项目简介：**  
 通过 A/B Test 方法分析游戏设计变化对玩家留存率的影响，并对不同版本进行数据对比分析。
+
+完整项目原仓库：https://github.com/Xu-xingchun/cookie-cats-ab-tes
 
 **项目内容：**
 - 分析 Day1 与 Day7 留存率  
