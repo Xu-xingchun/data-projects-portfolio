@@ -1,6 +1,6 @@
 # 数据项目作品集（Data Projects Portfolio）
 
-作者：顾文涛  
+作者：Gu Wentao  
 
 本仓库用于展示个人完成的数据分析与数据可视化相关项目，主要通过 Power BI、Python、Excel、JavaScript 等工具，对数据进行整理、分析与可视化展示，从数据中提取有价值的信息并进行直观呈现。
 
